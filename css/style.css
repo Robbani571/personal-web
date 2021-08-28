@@ -1,0 +1,79 @@
+body {
+    overflow-x: hidden;
+}
+.head-title {
+    font-weight: 600;
+    font-size: 75px; 
+}
+.heading-style {
+    background-image: url(../images/Background\ \(5\).png);
+    text-align: center;
+    color: white;
+}
+.button-style{
+    padding: 10px 40px;
+    background-color: rgb(106, 238, 30);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+.nav-button {
+    padding: 10px 40px;
+    background-color: rgb(106, 238, 30);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.learn-button{
+    margin-top: 20px;
+    padding: 10px 40px;
+    background-color: rgb(106, 238, 30);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.image-style {
+    width: 75%;
+
+}
+.logo-text {
+    text-align: center;
+}
+.logo-section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.side-slice {
+    background-image: url(../images/image-3.jpg);
+    color: white;
+    text-align: center;
+}
+.container-middle {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container-middle img {
+    width: 80%;
+}
+.text-center {
+    margin-bottom: 100px;
+}
+.text-color {
+    color: rgb(122, 180, 6);
+}
+.card-section {
+    margin-bottom: 100px;
+}
+.last-bg {
+    background-image: url(../images/last-bg.jpeg);
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.last-sec-first {
+    width: 50%;
+}
+
