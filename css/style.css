@@ -1,6 +1,20 @@
 body {
     overflow-x: hidden;
 }
+.nav-item {
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.nav-item:hover{
+    border: 2px solid rgb(61, 57, 57);
+    font-size: 17px;
+    transition: .8s;
+}
+.nav-button:hover {
+    background-color: wheat;
+    color: black;
+    transition: .8s;
+}
 .head-title {
     font-weight: 600;
     font-size: 75px; 
@@ -19,6 +33,11 @@ body {
     font-weight: 500;
     margin-bottom: 100px;
 }
+.button-style:hover {
+    background-color: wheat;
+    color: black;
+    transition: .8s;
+}
 .nav-button {
     padding: 10px 40px;
     background-color: rgb(106, 238, 30);
@@ -26,6 +45,11 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 500;
+}
+.nav-button:hover {
+    background-color: wheat;
+    color: black;
+    transition: .8s;
 }
 .learn-button{
     margin-top: 20px;
@@ -35,6 +59,11 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 500;
+}
+.learn-button:hover{
+    background-color: wheat;
+    color: black;
+    transition: .8s;
 }
 .image-style {
     width: 75%;
